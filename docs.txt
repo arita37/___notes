@@ -1,1 +1,31 @@
 
+################################################################################
+########### Contributions:   ###################################################
+
+  Propose Churn studies for Credit Card users.
+  
+  Monthly calculation of scoring  :
+      Full Automation.
+      Data Extraction, Code deployment on platform,
+      
+      
+  
+  New user  : analysis.
+  
+  
+  
+  
+  Invited for speech to top seminar in NY on : "Application of Machine Learning"
+  Other speaker list :
+        
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
