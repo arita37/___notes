@@ -4,12 +4,20 @@
 
   Propose Churn studies for Credit Card users.
   
+  
+  CLA :
   Monthly calculation of scoring  :
       Full Automation.
       Data Extraction, Code deployment on platform,
       
+      Total headcount CLA : 1 persons.    (project managers 4 persons)...
       
-  
+      Batch operational.
+      
+      
+      
+      
+     
   New user  : analysis.
   
   
@@ -19,6 +27,8 @@
   Other speaker list :
         
   
+  
+  Invited for talk at Kobe University (Workshop on AI and Cloud computing).
   
   
   
